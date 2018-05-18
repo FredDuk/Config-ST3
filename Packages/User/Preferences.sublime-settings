@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_12": true,
+	"status_bar_brighter": true,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme"
+}
