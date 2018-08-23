@@ -10,6 +10,7 @@
 		"Alignment",
 		"All Autocomplete",
 		"Autoprefixer",
+		"Babel",
 		"Color Highlighter",
 		"Colorsublime",
 		"CSS Extended Completions",
@@ -17,7 +18,7 @@
 		"CSSLint",
 		"Csslisible",
 		"DocBlockr",
-		"DocBlockr_with_update_capability",
+		"DoxyDoxygen",
 		"Emmet",
 		"Expand Selection to Quotes",
 		"Git Config",
@@ -50,7 +51,6 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Afterglow",
-		"Theme - Nexus",
-		"TransposeCharacter"
+		"Twig"
 	]
 }

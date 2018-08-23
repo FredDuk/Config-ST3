@@ -1,7 +1,26 @@
 {
+	"Font_size": 10,
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"file_exclude_patterns":
+	[
+		"package-lock.json",
+		"composer.lock"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"vendor",
+		".phpintel",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Hack",
+	"font_size": 10,
 	"ignored_packages":
 	[
+		"Phpcs",
 		"Vintage"
 	],
 	"sidebar_row_padding_medium": true,
